@@ -17,5 +17,5 @@ BreakLoop = 0
                 Send, % text[Line]
                 Sleep 100
                 SendInput {enter}
-                Sleep 5000
+                Sleep 500
             }
